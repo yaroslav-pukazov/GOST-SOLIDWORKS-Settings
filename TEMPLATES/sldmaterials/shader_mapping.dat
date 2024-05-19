@@ -1,0 +1,399 @@
+leather,					Кожа (PW)
+sponge,						Губка (PW)
+grass,						Трава (PW)
+sand,						Песок (PW)
+skin,						Кожа (PW)
+heavyclouds,				Сильная облачность(PW)
+lightclouds,				Легкая облачность (PW)
+clearsky,					Чистое небо (PW)
+waterstill,					Спокойная вода (PW)
+orientedstrandboard,		Плита с ориентарованными волокнами (OSB) (PW)
+hardwoodfloor,				Паркет (PW)
+hardwoodfloor2,				Паркет 2 (PW)
+hardwoodfloor3,				Паркет 3 (PW)
+laminatefloor,				Ламинированный пол (PW)
+laminatefloor2,				Ламинированный пол 2 (PW)
+laminatefloor3,				Ламинированный пол 3 (PW)
+polishedash,				Полированный ясень (PW)
+satinfinishash,				Сатинированный ясень (PW)
+unfinishedash,				Необработанный ясень (PW)
+polishedbeech,				Полированный бук (PW)
+satinfinishbeech,			Сатинированный бук (PW)
+unfinishedbeech,			Необработанный бук (PW)
+polishedbirch,				Полированная береза (PW)
+satinfinishbirch,			Сатинированная береза (PW)
+unfinishedbirch,			Необработанная береза (PW)
+polishedcherry,				Полированная вишня (PW)
+satinfinishcherry,			Сатинированная вишня (PW)
+unfinishedcherry,			Необработанная вишня (PW)
+polishedmahogany,			Полированное красное дерево (PW)
+satinfinishmahogany,		Сатинированное красное дерево (PW)
+unfinishedmahogany,			Необработанное красное дерево (PW)
+polishedmaple,				Полированный клен (PW)
+satinfinishmaple,			Сатинированный клен (PW)
+unfinishedmaple,			Необработанный клен (PW)
+polishedoak,				Полированный дуб (PW)
+satinfinishoak,				Сатинированный дуб (PW)
+unfinishedoak,				Необработанный дуб (PW)
+polishedpine,				Полированная сосна (PW)
+satinfinishpine,			Сатинированная сосна (PW)
+unfinishedpine,				Необработанная сосна (PW)
+polishedrosewood,			Полированное розовое дерево (PW)
+satinfinishrosewood,		Сатинированное розовое дерево (PW)
+unfinishedrosewood,			Необработанное розовое дерево (PW)
+polishedsatinwood,			Полированное атласное дерево (PW)
+satinfinishsatinwood,		Сатинированное атласное дерево (PW)
+unfinishedsatinwood,		Необработанное атласное дерево (PW)
+polishedspruce,				Полированная ель (PW)
+satinfinishspruce,			Сатинированная ель (PW)
+unfinishedspruce,			Необработанная ель (PW)
+polishedteak,				Полированный тик (PW)
+satinfinishteak,			Сатинированный тик (PW)
+unfinishedteak,				Необработанный тик (PW)
+polishedwalnut,				Полированное ореховое дерево (PW)
+satinfinishwalnut,			Сатинированное ореховое дерево (PW)
+unfinishedwalnut,			Необработанное ореховое дерево (PW)
+redceramictile,				Красная керамическая плитка (PW)
+floortile7,					Напольная плитка 7 (PW)
+floortile6,					Напольная плитка 6 (PW)
+floortile5,					Напольная плитка 5 (PW)
+floortile4,					Напольная плитка 4 (PW)
+floortile3,					Напольная плитка 3 (PW)
+floortile2,					Напольная плитка 2 (PW)
+floortile1,					Напольная плитка 1 (PW)
+cobblestone4,				Булыжник 4 (PW)
+cobblestone3,				Булыжник 3 (PW)
+cobblestone2,				Булыжник 2 (PW)
+cobblestone1,				Булыжник 1 (PW)
+cobblestone,				Булыжник (PW)
+limestone,					Известняк (PW)
+sandstone,					Песчаник (PW)
+slate,						Сланец (PW)
+granite,					Гранит (PW)
+polishedpinkmarble,			Полированный розовый мрамор (PW)
+pinkmarble,					Розовый мрамор (PW)
+polishedgreenmarble,		Полированный зеленый мрамор (PW)
+greenmarble,				Зеленый мрамор (PW)
+polisheddarkmarble,			Полированный темный мрамор (PW)
+darkmarble,					Темный мрамор (PW)
+polishedbeigemarble,		Полированный бежевый мрамор (PW)
+beigemarble,				Бежевый мрамор (PW)
+polishedbluemarble,			Полированный синий мрамор (PW)
+bluemarble,					Синий мрамор (PW)
+flemishbrick,				Фламандский кирпич (PW)
+firebrick,					Обожженный кирпич (PW)
+weatheredbrick,				Выветренный кирпич (PW)
+oldenglishbrick2,			Старый английский кирпич 2 (PW)
+oldenglishbrick,			Старый английский кирпич (PW)
+bonechina,					Фарфор (PW)
+ceramic,					Керамика (PW)
+stoneware,					Керамические изделия (PW)
+earthenware,				Глинянные изделия (PW)
+porcelain,					Фаянс (PW)
+pavingasphalt,				Асфальт (PW)
+pavingwetconcrete,			Асфальтирование мокрый цемент (PW)
+pavingdarkconcrete,			Асфальтирование темный цемент (PW)
+pavinglightconcrete,		Асфальтирование светлый цемент (PW)
+pavingredconcrete,			Асфальтирование красный цемент (PW)
+pavingstone,				Асфальтирование мостильный камнем (PW)
+clothwhitecotton,			Ткань белый хлопок (PW)
+clothbeigecotton,			Ткань бежевый хлопок (PW)
+clothbluecotton,			Ткань синий хлопок (PW)
+clothburgundycotton,		Ткань малиновый хлопок (PW)
+clothgreycotton,			Ткань серый хлопок (PW)
+clothcanvas,				Ткань полотно (PW)
+clothburlap,				Ткань мешковина (PW)
+carpetcolor5,				Цвет ковра 5 (PW)
+carpetcolor4,				Цвет ковраr 4 (PW)
+carpetcolor3,				Цвет ковра 3 (PW)
+carpetcolor2,				Цвет ковра 2 (PW)
+carpetcolor1,				Цвет ковра 1 (PW)
+sandblastedglass,			Стекло пескоструйной обработки (PW)
+frostedglass,				Матовое стекло (PW)
+reflectivegreenglass,		Отражающее зеленое стекло (PW)
+reflectiveblueglas,			Отражающее синее стекло (PW)
+reflectiveclearglass,		Отражающее прозрачное стекло (PW)
+mirror,						Зеркало (PW)
+brownglass,					Коричневое стекло (PW)
+greenglass,					Зеленое стекло (PW)
+blueglass,					Синее стекло (PW)
+clearglass,					Прозрачное стекло (PW)
+texturedrubber,				Текстурированная резина (PW)
+perforatedrubber,			Перфорированная резина (PW)
+tiretreadrubber,			Резина - след шины (PW)
+glossyrubber,				Глянцевая резина (PW)
+matterubber,				Матовая резинаr (PW)
+darkpowdercoat,				Темное напыление (PW)
+aluminumpowdercoat,			Алюминиевое напыление (PW)
+blackspraypaint,			Черная краска для распыления (PW)
+redspraypaint,				Красная краска для распыления (PW)
+candyappleredcarpainthq,	Красное карамельное яблоко автомобильная краска HQ (PW)
+steelgreycarpainthq,		Стальная серая автомобильная краска HQ (PW)
+sienacarpainthq,			Хина автомобильная краска HQ (PW)
+glossredcarpainthq,			Глянцевая красная автомобильная краска HQ (PW)
+glossbluecarpainthq,		Глянцевая синяя автомобильная краска HQ (PW)
+metallicgoldcarpainthq,		Металлическая золотая автомобильная краска HQ (PW)
+metallicwarmgreycarpainthq,	Металлическая ярко-серая автомобильная краска HQ (PW)
+metalliccoolgreycarpainthq, Металлическая бледно-серая автомобильная краска HQ (PW)
+whitecarpaint,				Белая автомобильная краска (PW)
+blackcarpaint,				Черная автомобильная краска (PW)
+beigesatinfinishplastic,		Бежевый сатинированный пластик (PW)
+yellowsatinfinishplastic,		Желтый сатинированный пластик (PW)
+greensatinfinishplastic,		Зеленый сатинированный пластик (PW)
+redsatinfinishplastic,			Красный сатинированный пластик (PW)
+bluesatinfinishplastic,			Синий сатинированный пластик (PW)
+blacksatinfinishplastic,		Черный сатинированный пластик (PW)
+darkgreysatinfinishplastic,		Темно-серый сатинированный пластик (PW)
+lightgreysatinfinishplastic,	Светло-серый сатинированный пластик (PW)
+creamsatinfinishplastic,		Кремовый сатинированный пластик (PW)
+whitesatinfinishplastic,		Белый сатинированный пластик (PW)
+beigelowglossplastic,		Бежевый пластик слабого глянца (PW)
+yellowlowglossplastic,		Желтый пластик слабого глянца (PW)
+greenlowglossplastic,		Зеленый пластик слабого глянца (PW)
+redlowglossplastic,			Красный пластик слабого глянца (PW)
+bluelowglossplastic,		Синий пластик слабого глянца (PW)
+blacklowglossplastic,		Черный пластик слабого глянца (PW)
+darkgreylowglossplastic,	Темно-серый пластик слабого глянца (PW)
+lightgreylowglossplastic,	Светло-серый пластик слабого глянца (PW)
+creamlowglossplastic,		Кремовый пластик слабого глянца (PW)
+whitelowglossplastic,		Белый пластик слабого глянца (PW)
+beigemediumglossplastic,	Бежевый пластик среднего глянца (PW)
+yellowmediumglossplastic,	Желтый пластик среднего глянца (PW)
+greenmediumglossplastic,	Зеленый пластик среднего глянца (PW)
+redmediumglossplastic,		Красный пластик среднего глянца (PW)
+bluemediumglossplastic,		Синий пластик среднего глянца (PW)
+blackmediumglossplastic,	Черный пластик среднего глянца (PW)
+darkgreymediumglossplastic,	Темно-серый пластик среднего глянца (PW)
+lightgreymediumglossplastic,	Светло-серый пластик среднего глянца (PW)
+creammediumglossplastic,	Кремовый пластик среднего глянца (PW)
+whitehighglossplastic,		Белый сильно-глянцевый пластик  (PW)
+beigehighglossplastic,		Бежевый сильно-глянцевый пластик  (PW)
+yellowhighglossplastic,		Желтый сильно-глянцевый пластик  (PW)
+greenhighglossplastic,		Зеленый сильно-глянцевый пластик  (PW)
+redhighglossplastic,		Красный сильно-глянцевый пластик  (PW)
+bluehighglossplastic,		Синий сильно-глянцевый пластик  (PW)
+blackhighglossplastic,		Черный сильно-глянцевый пластик  (PW)
+darkgreyhighglossplastic,	Темно-серый сильно-глянцевый пластик  (PW)
+lightgreyhighglossplastic,	Светло-серый сильно-глянцевый пластик  (PW)
+creamhighglossplastic,		Бежевый сильно-глянцевый пластик  (PW)
+whitehighglossplastic,		Белый сильно-глянцевый пластик  (PW)
+translucentplastic,			Полупрозрачный пластик (PW)
+frostedplastic,				Матовый пластик (PW)
+polypropyleneplastic,		Полипропиленовый пластик (PW)
+polycarbonateplastic,		Поликарбонатный пластик (PW)
+largesparkerosionplasticblue,	Крупный электроискровый синий пластик (PW)
+sparkerosionplasticblue,	Электроискровый синий пластик (PW)
+blueknurledplastic,			Синий пластик с насечками (PW)
+bluedimpledplastic,			Синий пластик к лунками (PW)
+bluetreadplateplastic,		Синий пластик с накаткой (PW)
+carbonfiberaramidfabric,	Углеродное волокно Аramid (PW)
+carbonfiberdesignfabric,	Ткань из углеродного волокна (PW)
+carbonfiberdyneemaplain,	Простое углеродное волокно Dyneema (PW)
+carbonfiberinlayunidirectional,	Углеродное волокно с однонаправленной инкрустацией (PW)
+carbonfiberepoxy,			Эпоксид углеродного волокна (PW)
+circularmeshplastic,		Круглый сетчатый пластик (PW)
+diamondmeshplastic,			Ромбовидный сетчатый пластик (PW)
+polishedsteel,				Шлифованная сталь (PW)
+brushedsteel,				Сталь с насечками (PW)
+satinfinishstainlesssteel,	Сатинированная нержавеющая сталь (PW)
+mattesteel,					Матовая сталь (PW)
+sandblastedsteel,			Сталь пескоструйной обработки (PW)
+burnishedsteel,				Полированная сталь (PW)
+caststainlesssteel,			Литая нержавеющая сталь (PW)
+castcarbonsteel,			Литая углеродистая сталь (PW)
+plaingalvanized,			Гладко оцинкованный (PW)
+chainlinksteel,				Сталь цепочкой (PW)
+machinedsteel,				Обработанная сталь (PW)
+stainlesssteeltreadplate,	Нержавеющая сталь с накаткой (PW)
+stainlesssteelknurled,		Нержавеющая сталь с насечками (PW)
+wroughtstainlesssteel,		Кованая нержавеющая сталь (PW)
+chromiumplate,				Хромированная пластина (PW)
+brushedchromium,			Хром с насечками (PW)
+satinfinishchrome,			Сатинированный хром (PW)
+mattechrome,				Матовый хром (PW)
+sandblastedchrome,			Хром пескоструйной обработки (PW)
+burnishedchrome,			Полированный хром (PW)
+chromiumplatecast,			Литая хромированная пластина (PW)
+polishedaluminum,			Шлифованный алюминийm (PW)
+brushedaluminum,			Алюминий с насечками (PW)
+satinfinishaluminum,		Сатинированный алюминий (PW)
+mattealuminum,				Матовый алюминий (PW)
+sandblastedaluminum,		Алюминий пескоструйной обработки (PW)
+burnishedaluminum,			Полированный алюминий (PW)
+castaluminum,				Литой алюминий (PW)
+blueanodizedaluminum,		Синий анодированный алюминий (PW)
+aluminumtreadplate,			Алюминий с накаткой (PW)
+polishedbronze,				Шлифованная бронза (PW)
+brushedbronze,				Бронза с насечками (PW)
+satinfinishbronze,			Сатинированная бронза (PW)		
+mattebronze,				Матовая бронза (PW)
+sandblastedbronze,			Бронза пескоструйной обработки (PW)
+burnishedbronze,			Полированная бронза (PW)
+castbronze,					Литая бронза (PW)
+manganesebronze,			Марганцовистая бронза (PW)
+polishedbrass,				Шлифованная латунь (PW)
+brushedbrass,				Латунь с насечками (PW)
+satinfinishbrass,			Сатинированная латунь (PW)
+mattebrass,					Матовая латунь (PW)
+sandblastedbrass,			Латунь пескоструйной обработки (PW)
+burnishedbrass,				Полированная латунь (PW)
+castbrass,					Литая латунь (PW)
+polishedcopper, 			Шлифованная медьr (PW)
+brushedcopper,				Медь с насечками (PW)
+satinfinishcopper,			Сатинированная медь (PW)	
+mattecopper,				Матовая медь (PW)
+sandblastedcopper,			Медь пескоструйной обработки (PW)
+burnishedcopper,			Полированная медь (PW)
+castcopper,					Литая медь (PW)
+wroughtcopper,				Кованая медь (PW)
+polishednickel,				Шлифованный никель (PW)
+brushednickel,				Никель с насечками (PW)
+satinfinishnickel,			Сатинированный никель (PW)
+mattenickel,				Матовый никель (PW)
+sandblastednickel,			Никель пескоструйной обработки (PW)
+burnishednickel,			Полированный никель (PW)
+castnickel,					Литой никель (PW)
+polishedzinc,				Шлифованный цинк (PW)
+brushedzinc,				Цинк с насечками (PW)
+satinfinishzinc,			Сатинированный цинк (PW)
+sandblastedzinc,			Цинк пескоструйной обработки (PW)
+burnishedzinc,				Полированный цинк (PW)
+castzinc,					Литой цинк (PW)
+brushedmagnesium,			Магний с насечками (PW)
+mattemagnesium,				Матовый магний (PW)
+satinfinishmagnesium,		Сатинированный магний (PW)
+sandblastedmagnesium,		Магний пескоструйной обработки (PW)
+burnishedmagnesium,			Полированный магний (PW)
+castmagnesium,				Литой магний (PW)
+matteiron,					Матовое железо (PW)
+sandblastediron,			Железо пескоструйной обработки (PW)
+castiron,					Литое железо (PW)
+wroughtiron,				Кованое железо (PW)
+brushedtitanium,			Титан с насечками (PW)
+mattetitanium,				Матовый титан (PW)
+satinfinishtitanium,		Сатинированный титан (PW)
+sandblastedtitanium,		Титан пескоструйной обработки (PW)
+burnishedtitanium,			Полированный титан (PW)
+casttitanium,				Литой титан (PW)
+brushedtungsten,			Вольфрам с насечками (PW)
+matttetungsten,				Матовый вольфрам (PW)
+satinfinishtungsten,		Сатинированный вольфрам (PW)
+sandblastedtungsten,		Вольфрам пескоструйной обработки (PW)
+burnishedtungsten,			Полированный вольфрам (PW)
+casttungsten,				Литой вольфрам (PW)
+polishedgold,				Шлифованное золото (PW)
+mattegold,					Матовое золото (PW)
+satinfinishgold,			Сатинированное золото (PW)
+polishedsilver,				Шлифованное серебро (PW)
+mattesilver,				Матовое серебро (PW)
+satinfinishsilver,			Сатинированное серебро (PW)
+polishedplatinum,			Шлифованная платина (PW)
+matteplatinum,				Матовая платина (PW)
+satinfinishplatinum,			Сатинированная платина (PW)
+mattelead,					Матовый свинец (PW)
+sandblastedlead,			Свинец пескоструйной обработки (PW)
+burnishedlead,				Полированный свинец (PW)
+castlead,					Литой свинец (PW)
+brushedgalvanized,			Оцинкованный с насечками (PW)
+mattegalvanized,			Матовый оцинкованный (PW)
+coarsegalvanized,			Грубо оцинкованный (PW)
+castgalvanized,				Литой оцинкованный (PW)
+roughgalvanized,			Необработанный оцинкованный (PW)
+shinygalvanized,			Блестящий оцинкованный (PW)
+SpecCobblestone,			Зеркальный булыжный камень (BGE)
+SpecFloorTile,				Зеркальная напольная плитка (BGE)
+TransFloorTile,				Прозрачная напольная плитка (BGE)
+Aluminum1345Alloy,			Легированный алюминий 1345
+Aluminum1350Alloy,			Легированный алюминий 1350
+Aluminum2014Alloy,			Легированный алюминий 2014 
+Aluminum2018Alloy,			Легированный алюминий 2018 
+Aluminum2024Alloy,			Легированный алюминий 2024 
+Aluminum3003Alloy,			Легированный алюминий 3003 
+Aluminum6061Alloy,			Легированный алюминий 6061
+Aluminum7079Alloy,			Легированный алюминий 7079
+AluminumBrushed,			Матовый алюминий
+AluminumCircularBrushed,		Круговой матовый алюминий
+AluminumSatin,				Шлифованная сталь
+BrassPolished,				Полированная латунь
+BronzeAluminum,				Бронза алюминий
+BronzeCommercial,			Коммерческая бронза
+BronzeManganese,			Матовая бронза
+BronzeTinBearing,			Бронза
+CarbonFibre,				Углеродное волокно
+ceramicporcelain,			Фарфор
+ceramicporcelain2,			Фарфор2
+ChromePolished,				Хром
+Cobalt,					Кобальт
+CopperPolished,				Медь
+CopperWrought,				Кованая медь
+Glass,					Стекло
+GlassFibre,				Стекляное волокно
+GoldDull,				Золото
+IronCast,				Литое железо
+IronDuctile,				Пластичное железо
+IronMalleableCast, 			Железо ковкое литое
+LeadPure,				Свинец
+Molybdenum,				Молибден
+AlloyMagnesium,				Легированный магний
+AlloyMonel400,				Монель 400
+NickelBrushed,				Матовый никель
+NickelPolished,				Никель
+PlasticAcrylic,				Пластик акрилик
+PlasticDimpled,				Пластик с ямочками 
+PlasticMT11010,				Пластик MT11010
+PlasticMT11020,				Пластик MT11020
+PlasticMT11030,				Пластик MT11030
+PlasticMT11040,				Пластик MT11040
+PlasticMT11050,				Пластик MT11050
+PlasticMT11060,				Пластик MT11060
+PlasticMT11070,				Пластик MT11070
+PlasticMT11080,				Пластик MT11080
+PlasticMT11090,				Пластик MT11090
+PlasticMT11100,				Пластик MT11100
+PlasticMT11110,				Пластик MT11110
+PlasticMT11120,				Пластик MT11120
+PlasticMT11130,				Пластик MT11130
+PlasticMT11140,				Пластик MT11140
+PlasticMT11150,				Пластик MT11150
+PlasticMT11155,				Пластик MT11155
+PlasticMT11200,				Пластик MT11200
+PlasticMT11205,				Пластик MT11205
+PlasticMT11215,				Пластик MT11215
+PlasticMT11230,				Пластик MT11230
+PlasticMT11235,				Пластик MT11235
+PlasticMT11240,				Пластик MT11240
+PlasticMT11245,				Пластик MT11245
+PlasticMT11250,				Пластик MT11250
+PlasticNylon,				Пластик нейлон
+PlasticShiny,				Блестящий пластик
+PlasticPerspex,				Пластик Perspex
+PlasticPTFE,				Пластик PTFE
+PlasticPolycarbonate,			Пластик поликарбонатный
+PlasticPolypropylene,			Пластик полипропилен 
+PlasticPolystyrene,			Пластик полистирол
+PlasticPVC,				Пластик PVC
+RubberSoft,				Мягкая резина
+Silicon,				Силикон
+SiliconDioxide,				Силикон двуокись
+silverpure,				Серебро
+StainlessSteel,				Нержавеющая сталь
+SteelAISI304,				Сталь AISI 304
+SteelAISI1020,				Сталь AISI 1020
+SteelCastCarbon,			Литая углеродистая сталь
+SteelCastStainless,			Литая нержавеющая сталь
+SteelGalvanised,			Оцинкованная сталь
+SteelPlainCarbon,			Простая углеродистая сталь
+SteelSatin,				Матовая сталь
+SteelWroughtStainless,			Кованная нержавеющая сталь
+Titanium,				Платина
+Tungsten,				Вольфрам
+Vanadium,				Ванадий
+water,					Вода
+WoodBeech,				Бук
+WoodMahogany,				Красное дерево
+WoodMaple,				Клен
+WoodOak,				Дуб
+WoodPine,				Сосна
+WoodRedCedar,				Кедр
+WoodTeak,				Тик
+Zirconium,				Цирконий

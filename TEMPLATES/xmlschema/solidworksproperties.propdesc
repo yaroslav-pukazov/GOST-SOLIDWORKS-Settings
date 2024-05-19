@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+	Descriptions of Solidworks Document properties
+
+-->
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/windows/2006/propertydescription" schemaVersion="1.0">
+
+
+  <propertyDescriptionList publisher="Solidworks" product="Document">
+
+    <propertyDescription name="Solidworks.Document.Description" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="100">
+      <description>Custom Property that is used as description of this document</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+      <!-- DO_TRANSLATE -->      
+      <labelInfo label="Описание" invitationText="Add a description"/>
+      <displayInfo displayType="String">
+        <editControl control="Text"/>
+      </displayInfo>
+    </propertyDescription>
+
+    <!-- Configurations -->
+    <propertyDescription name="Solidworks.Document.Configurations" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="101">
+      <description>Configurations</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- References -->
+    <propertyDescription name="Solidworks.Document.References" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="102">
+      <description>References</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+    
+    <!-- Features -->
+    <propertyDescription name="Solidworks.Document.Features" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="103">
+      <description>Features</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+    
+    <!-- SW Custom Properties -->
+    <propertyDescription name="Solidworks.Document.CustomProperties" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="104">
+      <description>SolidWorks Custom Properties</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+    
+    <!-- Notes -->
+    <propertyDescription name="Solidworks.Document.Notes" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="105">
+      <description>Notes</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+    
+    <!-- Tables -->
+    <propertyDescription name="Solidworks.Document.Tables" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="106">
+      <description>Tables</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Material -->
+    <propertyDescription name="Solidworks.Document.Material" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="107">
+      <description>Material</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Number -->
+    <propertyDescription name="Solidworks.Document.Number" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="108">
+      <description>Number</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Description -->
+    <propertyDescription name="Solidworks.Document.UserDescription" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="109">
+      <description>User Description</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Project -->
+    <propertyDescription name="Solidworks.Document.Project" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="110">
+      <description>Project</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+    
+    <!-- Author -->
+    <propertyDescription name="Solidworks.Document.Author" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="111">
+      <description>Author</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <propertyDescription name="Solidworks.Document.LastSavedWith" formatID="{29ED838A-063D-4502-89C4-BD1A79DFBE21}" propID="112">
+      <description>Shows the last Solidworks used to save this file</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+      <!-- DO_TRANSLATE -->
+      <labelInfo label="Последнее сохранение выполнено в" invitationText="Read only property"/>
+      <displayInfo displayType="String">
+        <editControl control="Text"/>
+      </displayInfo>
+    </propertyDescription>
+
+    <propertyDescription name="Solidworks.Document.OpenTime" formatID="{3930FA19-37C3-4B0F-8AFA-55B5E45F6A45}" propID="113">
+      <description>Shows the Solidworks File Open Time</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+      <!-- DO_TRANSLATE -->
+      <labelInfo label="Время открытия SW" invitationText="Read only property"/>
+      <displayInfo displayType="String">
+        <editControl control="Text"/>
+      </displayInfo>
+    </propertyDescription>
+    
+    <!-- Sketches -->
+    <propertyDescription name="Solidworks.Document.Sketches" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="201">
+      <description>Sketches</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Layers -->
+    <propertyDescription name="Solidworks.Document.Layers" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="202">
+      <description>Layers</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+
+    <!-- Sheets-->
+    <propertyDescription name="Solidworks.Document.Sheets" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="203">
+      <description>Sheets</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+
+
+    <!-- Attributes -->
+    <propertyDescription name="Solidworks.Document.Attributes" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="204">
+      <description>Attributes </description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+
+    <!-- Cuts-->
+    <propertyDescription name="Solidworks.Document.Cuts" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="205">
+      <description>Cuts</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+
+    <!-- Extrusions -->
+    <propertyDescription name="Solidworks.Document.Extrusions" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="206">
+      <description>Extrusions</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+    <!-- Blocks -->
+    <propertyDescription name="Solidworks.Document.Blocks" formatID="{6A9EEB69-672C-4B73-B1F3-A6EF662CF3C2}" propID="207">
+      <description>Blocks</description>
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk"/>
+      <typeInfo type="String" multipleValues="false" isViewable="true" isQueryable="true"/>
+    </propertyDescription>
+
+
+
+
+  </propertyDescriptionList>
+
+</schema>

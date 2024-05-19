@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <AppVersion>32</AppVersion>
+  <CPSheet>
+    <GroupBox Label="Окно группы" PropName="Окно группы2" DefaultState="Expanded">
+      <Control Label="Текстовое поле" PropName="Текстовое поле3" ApplyTo="Global" Type="TextBox" ReadOnly="False" DefaultValue="" Mode="Text" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>
