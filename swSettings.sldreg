@@ -948,7 +948,7 @@ REGEDIT4
 "cusFileVersionID"=dword:0000012c
 
 [HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2024\Customization\Macros]
-"0"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.swp:main"
+"0"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.swp:main"
 "1"="-------(Отделитель)-------"
 
 [HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2024\Customization\tPlate0]
@@ -1376,7 +1376,7 @@ REGEDIT4
 "UnitSettings"=dword:00000002
 
 [HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2024\DesignCheck\DesignCheckValidator]
-"PreviousSelectedSWSTDList"="c:\\program files\\solidworks corp\\solidworks\\dsgnchk\\data\\gost.swstd*\\\\Srv55\\home\\SGK\\DEVOPS\\TEMPLATES\\SOLIDWORKS\\russian\\test.swstd*"
+"PreviousSelectedSWSTDList"="c:\\program files\\solidworks corp\\solidworks\\dsgnchk\\data\\gost.swstd*C:\\Users\\yaros\\Documents\\TEMPLATES\\SOLIDWORKS\\russian\\test.swstd*"
 "PreviousUnSelectedSWSTDList"=""
 "ReportRepositoryPath"="C:\\Users\\PUKAZO~1\\AppData\\Local\\Temp\\"
 
@@ -1447,9 +1447,9 @@ REGEDIT4
 "Use Default Document Templates"=dword:00000001
 "Templates Last Tab Used"="russian"
 "Only Show Standard Formats"=dword:00000001
-"Default Part template"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Деталь.prtdot"
-"Default Assy template"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Сборка.asmdot"
-"Default Draw Template"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Чертеж.drwdot"
+"Default Part template"="{path_to_repo}\\TEMPLATES\\Деталь.prtdot"
+"Default Assy template"="{path_to_repo}\\TEMPLATES\\Сборка.asmdot"
+"Default Draw Template"="{path_to_repo}\\TEMPLATES\\Чертеж.drwdot"
 "Custom Part Document Template"=""
 "Custom Assembly Document Template"=""
 
@@ -1746,17 +1746,17 @@ REGEDIT4
 "Macro Feature Folders"=""
 "Hyperlink History"="http://help.solidworks.com/Help.aspx?V=2024&L=russian&P=1&C=sldworks&I=120590&F=;http://help.solidworks.com/Help.aspx?V=2024&L=russian&P=1&C=sldworks&I=120591&F=;http://help.solidworks.com/Help.aspx?V=2023&L=russian&P=1&C=sldworks&I=145577&F=;http://help.solidworks.com/Help.aspx?V=2023&L=russian&P=1&C=sldworks&I=145553&F=;http://help.solidworks.com/Help.aspx?V=2023&L=russian&P=1&C=sldworks&I=139094&F=;https://www.solidworks.com/3dexperience_marketplace_download;https://my.solidworks.com/support?utm_medium=desktop&utm_source=sldworks&utm_content=2023_SP2.1;http://www.swugn.org?utm_medium=desktop&utm_source=sldworks&utm_content=2023_SP2.1;https://www.solidworks.com/sw-ecourses-catalog?utm_medium=desktop&utm_source=sldworks&utm_content=2023_SP2.1;http://www.solidworks.com/EDUCurriculum?utm_medium=desktop&utm_source=sldworks&utm_content=2023_SP2.1"
 "Custom Symbol Folders"=""
-"Document Template Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES"
+"Document Template Folders"="{path_to_repo}\\TEMPLATES"
 "Sustainability template Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Symbol Library Folders"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2024\\lang\\russian"
 "Costing template Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Costing templates Folders"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2023\\lang\\russian\\Costing templates"
-"Sheet Format Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\sheetformat"
+"Sheet Format Folders"="{path_to_repo}\\TEMPLATES\\sheetformat"
 "Bend Table Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian\\Sheetmetal Bend Tables"
 "Web Folders"=""
 "BOM Template Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Title Block Template Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
-"Weld Table Template Folder"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES;C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
+"Weld Table Template Folder"="{path_to_repo}\\TEMPLATES;C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Bend Table Template Folder"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Punch Table Template Folder"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
 "Part Folders"=""
@@ -1764,16 +1764,16 @@ REGEDIT4
 "Drawing Folders"=""
 "Macro Folders"=""
 "Search Web Folders"=dword:00000001
-"Custom Property Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES"
-"Dimension Favorite Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Dimension and Annotation Favorites"
+"Custom Property Folders"="{path_to_repo}\\TEMPLATES"
+"Dimension Favorite Folders"="{path_to_repo}\\TEMPLATES\\Dimension and Annotation Favorites"
 "Hole Callout Format Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
-"Weldment Profile Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Weldment profiles;C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\data\\weldment profiles"
+"Weldment Profile Folders"="{path_to_repo}\\TEMPLATES\\Weldment profiles;C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\data\\weldment profiles"
 "Color Swatch Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian\\colorswatches"
 "Theme Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\data\\themes"
 "Custom Apperance Folders"=""
 "Custom Decal Folders"=""
 "Custom Scene Folders"=""
-"Material Database Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian\\sldmaterials;\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\sldmaterials;C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2024\\Настроенный пользователем материал"
+"Material Database Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian\\sldmaterials;{path_to_repo}\\TEMPLATES\\sldmaterials;C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2024\\Настроенный пользователем материал"
 "Texture Folders"=""
 "Weldment Custom Property Folders"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2023\\lang\\russian\\Weldments"
 "Hole Table Template Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
@@ -1788,16 +1788,16 @@ REGEDIT4
 "Light Folders"=""
 "Spelling Folders"=""
 "Icon Folders"=""
-"Design Checker File"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES"
+"Design Checker File"="{path_to_repo}\\TEMPLATES"
 "Hole Wizard Favorites DB Path"=""
 "Search Folders"=""
 "3DCC Model Folder"=""
 "SM Environment Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian\\sheet metal gauge tables"
 "DimXpert Callout Format Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
-"Drafting Standard Folder"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES"
+"Drafting Standard Folder"="{path_to_repo}\\TEMPLATES"
 "Cut List Properties Format Folders"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS\\lang\\russian"
 "Function Builder Segment Type Definition Folders"=""
-"Thread Profiles Folder"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES\\Thread profiles"
+"Thread Profiles Folder"="{path_to_repo}\\TEMPLATES\\Thread profiles"
 "Load Reference Documents In Memory"=dword:00000001
 "Make First Selection Transparent in Mates Dialog"=dword:00000001
 "General Tables template"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\lang\\russian"
@@ -1807,7 +1807,7 @@ REGEDIT4
 "Convert Referenced files"=dword:00000001
 "Drawing Scale Standard Folder"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS 2024\\lang\\russian"
 "Structure System - Connection Elements"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS (2)\\data\\Structure System - Connection Elements"
-"Hatch Pattern Folders"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES"
+"Hatch Pattern Folders"="{path_to_repo}\\TEMPLATES"
 "Inspection Project Folder"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS Inspection 2023 AddIn\\Templates\\"
 "Inspection Report Folder"="C:\\ProgramData\\SolidWorks\\SOLIDWORKS Inspection 2023 AddIn\\Templates\\"
 "Inspection Export Folder"=""
@@ -10431,8 +10431,8 @@ REGEDIT4
 "Folder4"="C:\\Users\\pukazov_yag\\Desktop\\(НИР) Кинематика РМ800|0"
 "Folder5"="C:\\Users\\pukazov_yag\\Desktop\\(ОКР) R40200280 Рычаг\\(П) Технические предложения R40200280|0"
 "Folder6"="C:\\Users\\pukazov_yag\\Desktop\\(ПРОЕКТ) ТЕРМИТ\\Поворотные кулаки|0"
-"Folder7"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\TEMPLATES|0"
-"Folder8"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master|0"
+"Folder7"="{path_to_repo}\\TEMPLATES|0"
+"Folder8"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master|0"
 "Folder9"="\\\\Srv55\\home\\SGK\\Папки сотрудников\\Пуказов Я.Г|0"
 "Folder10"="E:\\(О1) R40100440 Бампер задний|0"
 "Folder11"="E:\\(О2) R40100410 Багажник задний|0"
@@ -10452,14 +10452,14 @@ REGEDIT4
 "Folder25"="C:\\Users\\pukazov_yag\\Desktop\\Кванториум\\2023\\Кейс топологической оптимизации деталей подвески снегохода\\Детали\\Сборка\\Детали|0"
 
 [HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2024\Recent Macro File List]
-"File1"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.swp"
-"File2"="\\\\Srv55\\home\\SGK\\DEVOPS\\MACROS\\SOLIDWORKS\\SWPlusMacro\\DProp\\DProp.swp"
+"File1"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.swp"
+"File2"="C:\\Users\\yaros\\Documents\\MACROS\\SOLIDWORKS\\SWPlusMacro\\DProp\\DProp.swp"
 "File3"="C:\\Users\\pukazov_yag\\Documents\\SOLIDWORKS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
 "File4"="C:\\Users\\pukazov_yag\\Documents\\SOLIDWORKS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
 "File5"="C:\\Users\\pukazov_yag\\Documents\\SOLIDWORKS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
 "File6"="C:\\Users\\pukazov_yag\\Documents\\SOLIDWORKS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
-"File7"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.swp"
-"File8"="\\\\Srv55\\home\\SGK\\DEVOPS\\MACROS\\SOLIDWORKS\\SWPlusMacro\\DProp\\DProp.swp"
+"File7"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.swp"
+"File8"="C:\\Users\\yaros\\Documents\\MACROS\\SOLIDWORKS\\SWPlusMacro\\DProp\\DProp.swp"
 "File9"="C:\\Users\\pukazov_yag\\Documents\\SOLIDWORKS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
 
 [HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2024\Reference Triad]
@@ -10899,9 +10899,9 @@ REGEDIT4
 "Project"="MProp_run"
 "MacroMethod"="main"
 "ToolTip"="MProp"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\MProp\\MProp.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\MProp\\MProp.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\MProp\\MProp.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SWPlusMacro\\MProp\\MProp.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\MProp\\MProp.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\MProp\\MProp.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10913,9 +10913,9 @@ REGEDIT4
 "Project"="Save_Drawing_as_PDF1"
 "MacroMethod"="main"
 "ToolTip"="Сохранить PDF"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SaveDrawingAsPDF\\acrobat-reader.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\Macros\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SaveDrawingAsPDF\\Save Drawing as PDF.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SaveDrawingAsPDF\\acrobat-reader.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10927,9 +10927,9 @@ REGEDIT4
 "Project"="Run_Program"
 "MacroMethod"="main"
 "ToolTip"="SetLabels"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SetLabels\\SetLabels.SWP"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SetLabels\\SetLabels.SWP"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SetLabels\\SetLabels.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SetLabels\\SetLabels.SWP"
+"Source Path"="{path_to_repo}\\MACROS\\SetLabels\\SetLabels.SWP"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SetLabels\\SetLabels.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10941,9 +10941,9 @@ REGEDIT4
 "Project"="MyProperties_run"
 "MacroMethod"="main"
 "ToolTip"="MyProperties"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\SpecEditor\\MyProperties.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\SpecEditor\\MyProperties.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\SpecEditor\\SpecEditor.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SWPlusMacro\\SpecEditor\\MyProperties.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\SpecEditor\\MyProperties.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\SpecEditor\\SpecEditor.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10955,9 +10955,9 @@ REGEDIT4
 "Project"="Roughness_run"
 "MacroMethod"="main"
 "ToolTip"="Roughness"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Roughness\\Roughness.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Roughness\\Roughness.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Roughness\\Roughness.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SWPlusMacro\\Roughness\\Roughness.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\Roughness\\Roughness.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\Roughness\\Roughness.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10969,9 +10969,9 @@ REGEDIT4
 "Project"="Run_Program"
 "MacroMethod"="main"
 "ToolTip"="TT"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\ТТ\\TT.SWP"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\ТТ\\TT.SWP"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\ТТ\\TT.BMP"
+"Prompt Msg"="{path_to_repo}\\MACROS\\ТТ\\TT.SWP"
+"Source Path"="{path_to_repo}\\MACROS\\ТТ\\TT.SWP"
+"Bitmap Path"="{path_to_repo}\\MACROS\\ТТ\\TT.BMP"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10983,9 +10983,9 @@ REGEDIT4
 "Project"="DProp_run"
 "MacroMethod"="main"
 "ToolTip"="DProp"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\DProp\\DProp.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\DProp\\DProp.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\DProp\\DProp.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SWPlusMacro\\DProp\\DProp.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\DProp\\DProp.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\DProp\\DProp.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
@@ -10997,9 +10997,9 @@ REGEDIT4
 "Project"="Master_run"
 "MacroMethod"="main"
 "ToolTip"="Master"
-"Prompt Msg"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.swp"
-"Source Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.swp"
-"Bitmap Path"="\\\\Srv55\\home\\SGK\\DEVOPS\\SOLIDWORKS\\MACROS\\SWPlusMacro\\Master\\Master.bmp"
+"Prompt Msg"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.swp"
+"Source Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.swp"
+"Bitmap Path"="{path_to_repo}\\MACROS\\SWPlusMacro\\Master\\Master.bmp"
 "Mouse Gesture Part"=dword:00000000
 "Mouse Gesture Assembly"=dword:00000000
 "Mouse Gesture Drawing"=dword:00000000
